@@ -2,10 +2,6 @@
     margin: 0;
     padding: 0;
 }
-/*@font-face{
-    font-family: PostBold;
-    src: url(/gentelman/font_type/PostNoBillsJaffna-Bold.ttf) format('truetype');
-}*/
 body{
     margin: 0;
     padding: 0;
@@ -53,6 +49,14 @@ header .header_menus li {
 }
 
 /*ANIMATION*/
+/*.info-block .personal{
+    margin-right: 50px;
+}
+.info-block .icon{
+    margin-right: 120px;
+}*/
+
+
 nav{
     position: relative;
     margin: 0 auto;
@@ -61,6 +65,7 @@ nav{
     font-size: 0;
     box-shadow: 0 2px 3px 0 rgba(0,0,0,.1);
     float: left;
+    margin-left: 95px;
 }
 
 nav a{
